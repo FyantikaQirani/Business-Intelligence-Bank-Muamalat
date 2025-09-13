@@ -60,5 +60,4 @@ The project uses 4 main datasets:
 
 ---
 
-## 👩‍💻 Author
-Fyantika Qirani – Data Analyst (Virtual Internship Project)
+Created by Fyantika Qirani Asmara 🌟 | Built with SQL + BigQuery + Looker Studio
